@@ -6,6 +6,7 @@ import Person from './Person';
 import './app.scss';
 export default props =>
 
+
     <
     Router >
     <
@@ -33,6 +34,6 @@ component = { Organization }
 /> <
 Route path = "/person"
 component = { Person }
-/> <
-/div> <
-/Router>
+/> < /
+div > <
+    /Router>
