@@ -25,6 +25,7 @@ export default props =>
 <
 hr / >
 
+
     <
     Route exact path = "/"
 component = { Home }
